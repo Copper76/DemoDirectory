@@ -5,3 +5,4 @@ This repository is a pointer to all the demo projects that are not big enough to
 - [Wave Demo](https://github.com/Copper76/WaveDemo)
 - [Inventory Demo](https://github.com/Copper76/InventoryDemo)
 - [Group Select Demo](https://github.com/Copper76/GroupSelectDemo)
+- [Shader Demo](https://github.com/Copper76/CyberpunkCity)
